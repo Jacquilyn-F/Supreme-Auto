@@ -28,6 +28,9 @@ This is a command-line interface (CLI) application that allows users to manage a
 
 The user is able to add a new vehicle or edit existing vehicles
 
+Walkthrough Video:
+https://drive.google.com/file/d/1j1oGsIUhCPtp_s-1ucwJnKHo_uynh1C2/view
+
 ## License
 
 This project is licensed under the MIT license.
