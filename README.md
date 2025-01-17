@@ -8,10 +8,7 @@ This is a command-line interface (CLI) application that allows users to manage a
 
 * [Installation](#installation)
 * [Usage](#usage)
-
 * [License](#license)
-* [Contributing](#contributing)
-* [Tests](#tests)
 * [Questions](#questions)
 
 ## Installation
