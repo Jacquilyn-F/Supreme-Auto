@@ -15,8 +15,14 @@ This is a command-line interface (CLI) application that allows users to manage a
 
 * First you will need to clone the repo to your local machine.
 * Open your file in the terminal on vs code. 
-* Then download the dependencies need to run the program using: npm i 
-* To run program you enter: npm start
+* Then download the dependencies needed to run the program using:
+ ```bash
+ npm i
+ ```
+* To run program you enter:
+ ```bash
+ npm start
+ ```
 
 ## Usage
 
